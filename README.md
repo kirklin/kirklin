@@ -45,6 +45,6 @@ if you like what i do, maybe consider buying me a book 🥺👉👈
 <br/><br/>
 📈 My GitHub Activity Graph:
 
-[![KirkLin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kirklin&theme=xcode)](https://github.com/kirklin/kirklin)
+[![KirkLin's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kirklin&theme=xcode)](https://github.com/kirklin/kirklin)
 
 
