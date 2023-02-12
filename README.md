@@ -24,9 +24,11 @@ In my free time, I enjoy exploring the world with my camera, capturing life's mo
 
 Thank you for taking the time to get to know me, and I look forward to the opportunity to collaborate with like-minded individuals and bring truly exceptional ideas to life.
 
-凡夫俗子不知道贤者之名，岂料我乃一位全栈工程师和自由职业软件工程师，自幼痴迷于软件开发之中，尤其对创意思维和优美界面的实现嗜好颇深。每逢我所构建的项目，必然细心呵护用户体验，孜孜不倦追求架构与代码质量之完美。不仅如此，我还是一位开源爱好者和维护者，不吝于传授经验和知识，助人攀登人生巅峰。
+凡夫俗子不知道贤者之名，岂料我乃一位全栈工程师和自由职业软件工程师，自幼痴迷软件开发，崇尚创新之思维，尤嗜优美之界面。每逢我所构建的项目，必然细心呵护用户体验，追求架构之卓越，求取代码之至美。
 
-脱离工作之余，我也热心摄影和哲学，反思人文大道。摄影为我留存生活之美，感悟各色人生，而哲学为我理清存在之义，思考如何更好地生活和实现人生价值。
+不止如此，我亦是开源技术之爱好者，维护开源项目之责无旁贷。借助开源之大道，涵育之精华，获得之知识与经验无尽流溢，不吝于分享之于他人，愿与百千同路人共谋共勉，攀登于生命巅峰。
+
+脱离工作之余，我慕名于摄影之道，品赏生命之美，探寻人生之真谛。一颗奋发之心，聚于哲学之思考，寻找生命之方向，实现人生之价值。在此谢过阁下赏识，期待于志同道合之人共同抒写出奋发向上之笔墨。
 
 <img align="right" alt="GIF" src="https://github.com/kirklin/kirklin/blob/main/img/code.gif?raw=true" width="500" height="320" />
 
