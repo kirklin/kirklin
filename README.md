@@ -16,13 +16,13 @@
 
 <br />
 
-Hello, I'm [Kirk Lin](https://kirklin.cn/), a self-taught full-stack web developer and freelance software engineer from China. I'm passionate about software development, particularly in bringing ideas to life with elegant interfaces. I strive for the best user experience, architecture, and code quality in every project I build.
+Hello, I'm [Kirk Lin](https://kirklin.cn/), a self-taught full-stack web developer and freelance software engineer from China. I am driven by the pursuit of innovation and the desire to bring ideas to life with elegant and functional interfaces. I am always striving to create the best user experience, architecture, and code quality in every project I undertake.
 
-Aside from my interest in development, I'm also an open-source enthusiast and maintainer. I've learned a lot from the open-source community and appreciate how collaboration and knowledge sharing can happen through open-source projects.
+My passion for web development is matched only by my enthusiasm for open-source technology. As an avid contributor to open-source projects, I've gained valuable insights and knowledge from the wider community, and I'm always eager to share my own expertise to help others.
 
-In my free time, I enjoy photography and philosophy, where I love to explore and contemplate human issues.
+In my free time, I enjoy exploring the world with my camera, capturing life's moments and reflecting on the beauty of the world around us. I am also an avid reader of philosophy, which allows me to contemplate the deeper meaning of life and the human experience.
 
-Thank you for your time, and I look forward to collaborating with like-minded individuals to create exceptional products and experiences.
+Thank you for taking the time to get to know me, and I look forward to the opportunity to collaborate with like-minded individuals and bring truly exceptional ideas to life.
 
 凡夫俗子不知道贤者之名，岂料我乃一位全栈工程师和自由职业软件工程师，自幼痴迷于软件开发之中，尤其对创意思维和优美界面的实现嗜好颇深。每逢我所构建的项目，必然细心呵护用户体验，孜孜不倦追求架构与代码质量之完美。不仅如此，我还是一位开源爱好者和维护者，不吝于传授经验和知识，助人攀登人生巅峰。
 
