@@ -2,18 +2,9 @@
 
 # Hello there! 👋🏻 I am Kirk Lin ! <img src="./img/cat.gif" alt="Meaow" width="50" />
 
-
-<a href="https://www.instagram.com/kirkirlin/">
-  <img align="left" alt="Kirk Lin's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-
-<a href="https://twitter.com/lkirkun">
-  <img align="left" alt="Kirk Lin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-
+[![](https://img.shields.io/badge/-instagram-165DFF?style=flat-square)](https://instagram.com/kirkirlin)
+[![](https://img.shields.io/badge/-twitter-0E42D2?style=flat-square)](https://twitter.com/lkirkun)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kirklin.kirklin)
-
 <br />
 
 Hello, I'm [Kirk Lin](https://kirklin.cn/), a self-taught full-stack web developer and freelance software engineer from China. I am driven by the pursuit of innovation and the desire to bring ideas to life with elegant and functional interfaces. I am always striving to create the best user experience, architecture, and code quality in every project I undertake.
@@ -53,8 +44,5 @@ if you like what i do, maybe consider buying me a book 🥺👉👈
 <a href="https://www.buymeacoffee.com/linkirk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <br/><br/>
-📈 My GitHub Activity Graph:
-
-[![KirkLin's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kirklin&theme=xcode)](https://github.com/kirklin/kirklin)
 
 
