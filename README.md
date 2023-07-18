@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/-instagram-165DFF?style=flat-square)](https://instagram.com/kirkirlin)
 [![](https://img.shields.io/badge/-twitter-0E42D2?style=flat-square)](https://twitter.com/lkirkun)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kirklin.kirklin)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fkirklin&countColor=%234080ff&style=flat-square&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkirklin)
 <br />
 
 Hello, I'm [Kirk Lin](https://kirklin.cn/), a self-taught full-stack web developer and freelance software engineer from China. I am driven by the pursuit of innovation and the desire to bring ideas to life with elegant and functional interfaces. I am always striving to create the best user experience, architecture, and code quality in every project I undertake.
