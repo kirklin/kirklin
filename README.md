@@ -24,7 +24,9 @@ Thank you for taking the time to get to know me, and I look forward to the oppor
 <img align="right" alt="GIF" src="https://github.com/kirklin/kirklin/blob/main/img/code.gif?raw=true" width="500" height="320" />
 
 - 💼 any freelance work? do reach :)
-- 💬 ask me about anything, I am happy to help;
+- 💬 ask me about anything, I am happy to help
+- 💼 有自由职业工作需求或者兼职请随时联系我 :)
+- 💬 有任何问题，请随时向我提问，我乐意帮助
 
 **languages and tools:**  
 
@@ -43,6 +45,8 @@ if you like what i do, maybe consider buying me a book 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/linkirk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+如果您喜欢我的工作，也许可以考虑给我买一本书 🥺👉👈<br>
+[![爱发电](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/a/kirklin)
 <br/><br/>
 
 
