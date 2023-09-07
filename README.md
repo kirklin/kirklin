@@ -41,11 +41,11 @@ Thank you for taking the time to get to know me, and I look forward to the oppor
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br/>
-if you like what i do, maybe consider buying me a book 🥺👉👈
+if you like what i do, maybe consider buying me a book 🥺
 
 <a href="https://www.buymeacoffee.com/linkirk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-如果您喜欢我的工作，也许可以考虑给我买一本书 🥺👉👈<br>
+如果您喜欢我的工作，也许可以考虑给我买一本书 🥺<br>
 [![爱发电](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/a/kirklin)
 <br/><br/>
 
