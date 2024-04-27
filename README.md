@@ -17,7 +17,7 @@ My thirst for knowledge stems from an inexhaustible curiosity about the world. I
 
 Whilst pursuing personal growth, I remain cognizant of my duty to society. I contend that technology ought to serve humanity, aiding in the resolution of real-world predicaments. Hence, I engage in various societal initiatives, leveraging my technical acumen to support non-profit organizations, facilitating their endeavors to effect societal change. Such experiences have elucidated that the power of technology lies not solely in birthing new products but also in effecting societal metamorphosis.
 
-In leisure, I am fervent about photography, capturing fleeting moments of worldly beauty through my lens. This not only hones my observational prowess but also teaches me to appreciate life from diverse perspectives. Skateboarding serves as my avenue to release stress, pursuing speed and thrill; it imparts upon me the courage to confront challenges and relish the liberating sensation of racing through the wind. These hobbies enrich my existence, bestowing upon me fresh inspiration and creativity.
+In my leisure time, I am fervent about photography, capturing the fleeting moments of beauty that the world has to offer through the lens of my camera. This not only hones my observational skills but also allows me to appreciate life from various perspectives. My later-found love for "Dream of the Red Chamber" has profoundly shifted my perspective; literature has taught me to set aside judgmental views, embracing a more tolerant and understanding approach towards the choices and destinies of each character. "Dream of the Red Chamber" has made me realize that everyone has their own story, and behind every decision lies a tapestry of complex emotions and motivations. These hobbies have not only enriched my life but also provided me with a wealth of new inspiration and creativity.
 
 Upon the path ahead, I shall persist in my ethos of innovation, diverse cogitation, and lifelong learning, ceaselessly exploring and challenging myself. I shall continue to seek inspiration at the juncture of technology, commerce, and philosophy, birthing products and services capable of reshaping the world. I hold faith that through perpetual learning and practice, I can contribute my share to this ever-evolving world and, alongside kindred spirits, coalesce in fashioning a brighter future.
 
@@ -31,24 +31,9 @@ Upon the path ahead, I shall persist in my ethos of innovation, diverse cogitati
 
 在追求个人成长的同时，我也不忘对社会的贡献。我相信，技术应该服务于社会，帮助解决现实世界的问题。因此，我参与了多个社会项目，利用我的技术知识为非营利组织提供支持，帮助他们更有效地实现社会影响。这些经历让我意识到，技术的力量不仅仅在于创造新产品，更在于它能够带来的社会变革。
 
-业余时间，我热衷于摄影，通过镜头捕捉世界的瞬间美好，这不仅锻炼了我的观察力，也让我学会了从不同角度欣赏生活。滑板则是我释放压力、追求速度与激情的方式，它教会了我勇敢面对挑战，享受在风中疾驰的自由感。这些爱好丰富了我的生活，也为我带来了新的灵感和创造力。
+业余时间，我热衷于摄影，通过镜头捕捉世界的瞬间美好，从不同角度欣赏生活。后来爱上了《红楼梦》，文学带给我最大的变化是：我学会了放下批判的眼光，转而以一种更加宽容和理解的心态去看待每一个人物的选择和命运。《红楼梦》让我认识到，每个人都有自己的故事，每个选择背后都有其复杂的情感和动机。这些爱好丰富了我的生活，也为我带来了新的灵感和创造力。
 
 在未来的道路上，我将继续以创新精神、多元思维和终身学习的态度，不断探索和挑战自我。我将继续在技术、商业和哲学的交汇处寻找灵感，创造出能够改变世界的产品和服务。我相信，通过不断的学习和实践，我能够为这个不断变化的世界贡献我的力量，并与志同道合的人们一起，共同创造一个更加美好的未来。
-
-
-吾乃技术之匠，立于时代之巅，以创新之魂，不懈追求，筑数字世界之基。信技术之力，可促社会之进，代码之行，皆为进步之石。数据与算法交织之世，吾既是造物者，亦为学子，探商智、哲思与技实结合之道，创价值之物。
-
-吾之途，始于计算机科学之爱，此情引吾深研，掌前后端全栈之术。热衷解用户之需，设计美观实用之界面，保后端逻辑之高效稳。求非仅功能之现，更求体验之极。吾视每成之项，皆细节追求与完美探索之果。
-
-商域之中，吾采多元思维之模，跨学科界限，整合异域知识解难。关注技术之进，亦研经济、心理、哲学之理，构全面之视角。跨学科思维助吾解复杂问题，提独效策略。
-
-知识之渴，源自对世之好奇。知每伟发明创新，皆立于知识之基。故吾扩知界，读、网课、实践项目学新程技。信学无尽，每学皆自我能之提。
-
-追个人成长，不忘社会贡献。信技术应服社会，解世问。参多社项，以技知助非营组织，增社会影响。此历让吾识，技术力不仅创新物，更在社变革。
-
-业余之际，吾爱摄影，镜捕世瞬美，练观察力，学异角赏生。滑板释压，追速激情，教吾面挑战，享风疾自由。此好丰吾生，亦引新灵感创力。
-
-未来之路，吾继以创新精神、多元思维、终身学习之态，探挑战自我。继于技商哲交汇寻灵感，创改世产服。信不断学实，能为变世贡力，与志同者共创美未。
 
 
 
