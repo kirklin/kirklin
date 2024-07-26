@@ -1,9 +1,11 @@
-# Hello there! 👋🏻 I am Kirk Lin ! <img src="./img/cat.gif" alt="Meaow" width="50" />
+# Hello there! 👋🏻 I am Kirk Lin! <img src="./img/cat.gif" alt="Meaow" width="50" />
 
 [![](https://img.shields.io/badge/-instagram-165DFF?style=flat-square)](https://instagram.com/kirkirlin)
 [![](https://img.shields.io/badge/-twitter-0E42D2?style=flat-square)](https://twitter.com/lkirkun)
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fkirklin&countColor=%234080ff&style=flat-square&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkirklin)
-<br />
+
+<details open>
+<summary>关于我 (About Me) 🇨🇳</summary>
 
 我一直不希望自己只是一个写代码的程序员。对我来说，编程是一种创造的艺术，是表达思想的媒介，更是改变世界的工具。我追求的是将技术、设计和人文完美融合，创造出既功能强大又富有美感和人性化的产品。
 
@@ -23,11 +25,15 @@
 
 这就是我，**Kirk Lin**，一个始终追求在代码中注入艺术灵魂和人文关怀的工程师。我相信，通过不懈的努力、持续的创新和跨学科的思考，我们终将创造出不仅功能强大，而且美观、人性化，真正能够改变世界的产品。这不仅是我的工作，更是我的使命和热忱所在。在这个过程中，我将始终铭记：完美是永无止境的追求，而创造一个更美好的世界，正是我们每个人的责任与机遇。
 
-<hr>
+</details>
+
+<details>
+<summary>About Me 🇬🇧</summary>
+
 <samp>
 <b>I've always aspired to be more than just a code-writing programmer. To me, programming is an art of creation, a medium for expressing ideas, and a tool for changing the world. My pursuit is to perfectly integrate technology, design, and humanities to create products that are not only powerful but also aesthetically pleasing and user-friendly.</b>
 </samp>
-<br>
+
 <samp>
 <b>My quest for beautiful interfaces and ultimate user experiences stems from an innate desire for beauty and perfection. Whenever I design an interface, I ponder: How can each element be just right? How can I make users feel joy and satisfaction when using it? This pursuit reflects my understanding and interpretation of the world.</b>
 </samp>
@@ -59,15 +65,19 @@
 <samp>
 <b>This is who I am, Kirk Lin, an engineer who always strives to inject artistic soul and humanistic care into code. I believe that through relentless effort, continuous innovation, and interdisciplinary thinking, we will eventually create products that are not only powerful but also beautiful, user-friendly, and truly capable of changing the world. This is not just my work, but my mission and passion. In this process, I will always remember: the pursuit of perfection is endless, and creating a better world is both our responsibility and opportunity.</b>
 </samp>
-<br>
-<hr>
+
+</details>
 
 <img align="right" alt="GIF" src="https://github.com/kirklin/kirklin/blob/main/img/code.gif?raw=true" width="500" height="320" />
 
-- 💼 any freelance work? do reach :)
-- 💬 ask me about anything, I am happy to help
+## Contact Me
+
+- 💼 Looking for freelance work? Reach out!
+- 💬 Ask me anything, I'm happy to help!
 - 💼 有自由职业工作需求或者兼职请随时联系我 :)
 - 💬 有任何问题，请随时向我提问，我乐意帮助
+
+## Skills
 
 **Languages and Tools:**
 
@@ -81,11 +91,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br/>
-if you like what i do, maybe consider buying me a book 🥺
+## Support My Work
+
+If you like what I do, consider buying me a book 🥺
 
 <a href="https://www.buymeacoffee.com/linkirk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-如果您喜欢我的工作，也许可以考虑给我买一本书 🥺<br>
+如果您喜欢我的工作，也许可以考虑给我买一本书 🥺
+
 [![爱发电](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/a/kirklin)
-<br/><br/>
