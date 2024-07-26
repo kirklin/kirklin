@@ -68,8 +68,6 @@
 
 </details>
 
-<img align="right" alt="GIF" src="https://github.com/kirklin/kirklin/blob/main/img/code.gif?raw=true" width="500" height="320" />
-
 ## Skills
 
 **编程语言 / Programming Languages**
