@@ -7,64 +7,38 @@
 <details open>
 <summary>关于我 (About Me) 🇨🇳</summary>
 
-我一直不希望自己只是一个写代码的程序员。对我来说，编程是一种创造的艺术，是表达思想的媒介，更是改变世界的工具。我追求的是将技术、设计和人文完美融合，创造出既功能强大又富有美感和人性化的产品。
+我做开源的初心，其实源于一个非常简单的故事。大一那年，我学完了大学的所有核心课程，这得益于我从初中就开始自学编程，它让我很早就习惯了如何高效地学习和创造。当时，我把所有的笔记和心得都整理后分享了出去，没想到在同学中获得了巨大的反响。
 
-我对精美界面和极致用户体验的追求源于对美和完美的本能向往。每当我设计一个界面，我都在思考：如何让每个元素都恰到好处，如何让用户在使用时感到愉悦和满足？这种追求是我对这个世界的理解和诠释的体现。
+那一刻，一种久违的快乐击中了我——那是我初中时第一次用代码做出网站，第一次感受到技术能为他人创造价值时的、那种最纯粹的成就感。我突然领悟到一个对我而言无比重要的东西，我称之为“价值杠杆”（Value Leverage）：**我投入的有限时间，被成倍地放大，为他人创造了远超我个人付出的价值。这，就是我心中最艺术的创造模式。**
 
-但我的视野并不局限于技术领域。我深信跨学科思维的力量。经济学、心理学、哲学，甚至艺术和文学，这些看似与编程无关的学科，都在我的思维模型中占有重要位置。这种跨界思考让我能够跳出“拿着锤子，看啥都像钉子”的思维陷阱，以更全面、更深入的视角来解决问题。
+这个信念也彻底塑造了我对“创造”本身的看法。当今的主流都在提倡专精，但我更信奉达芬奇式的全能发展。一个创造者，必须对从代码到设计、从用户心理到商业逻辑等的全过程有深刻的理解和掌控。因此，我从不把自己局限在“程序员”的身份里，当一个作品需要我去承担更多角色时，我会毫不犹豫地投入进去，因为最终的目标是作品的完整性，而非个人的职能标签。
 
-摄影和人文是我表达创意和理解世界的重要方式。通过镜头，我捕捉生活中转瞬即逝的美；通过阅读和思考，我深入理解人性和社会。这些经历丰富了我的视角，让我在创造数字产品时能够融入更多人文关怀和美学考量。
+这让我想起乔布斯曾说的，伟大的艺术家和伟大的工程师是相似的，因为他们都渴望进行自我表达。在研发第一代Mac的优秀工程师团队里，有些人会在业余时间写诗或作曲。20世纪70年代，计算机成为人们表达创造性的方式。像达·芬奇和米开朗琪罗这样伟大的艺术家在科学方面也很出色。米开朗琪罗不只是会雕刻，他还了解很多采石的知识。 
 
-我始终相信，真正伟大的技术应该是无形的，它应该自然地融入人们的生活，提升生活质量，而不是成为一种负担。这就是为什么我无时无刻不在思考如何改变世界。对我来说，改变世界不是一句空洞的口号，而是实实在在的行动。每一个精心设计的界面，每一个流畅的用户体验，每一个解决实际问题的功能，都是我改变世界的尝试。
+毕业后，我进入了一家传统软件公司。但现实是，我成了一枚流水线上的螺丝钉，每天都在确保项目能“通过验收”。我感受不到我做的事情为最终用户带来了什么价值，更别提那种“价值杠杆”带来的快乐了。我失去了创造的成就感。
 
-我对细节的执着，对完美的追求，有时会被理解为偏执。但我坚信，正是这种近乎偏执的专注，才能创造出真正卓越的产品。我常说：**完美是一个过程，而不是一个终点。当你觉得满意时，就是你停止进步的时候。** 保持创新至关重要。但对我来说，创新不仅仅是学习新的编程语言或框架。真正的创新是打破界限，是将技术与设计、与人文思考相结合，创造出能够真正改善人们生活的产品。
+我很快发现，这并非个例。在很多公司，人们把赚钱当成了目标。但我骨子里认为，他们彻底搞错了。**赚钱不是过程，它甚至也不是目标，它只是你把事情做对之后一个自然而然的结果。** 真正的“过程”，是全身心投入去创造一个伟大作品时，所体验到的那种心流和快乐。真正的“目标”，是看到这个作品真正赋能于人，为世界带来一个高效、艺术的“价值杠杆”。那个时候，赚钱是自热的事情。
 
-我的动力来自哪里？它来自于看到用户因为我设计的产品而感到生活变得更美好的那一刻，来自于通过技术解决实际问题时的成就感，来自于对创造更美好世界的坚定信念。
-
-有人可能会说我的想法太过理想化，改变世界听起来可能有些狂妄与中二。但我始终相信，正是这种看似不切实际的理想主义，才是推动技术和社会进步的真正动力。**理想主义者在绝望中看到机会，在黑暗中创造光明。我们不是生活在世界上，而是创造着这个世界。**如果我们不怀着改变世界的雄心壮志去工作，那么我们又怎能创造出真正伟大的作品呢？
-
-这就是我，**Kirk Lin**，一个始终追求在代码中注入艺术灵魂和人文关怀的工程师。我相信，通过不懈的努力、持续的创新和跨学科的思考，我们终将创造出不仅功能强大，而且美观、人性化，真正能够改变世界的产品。这不仅是我的工作，更是我的使命和热忱所在。在这个过程中，我将始终铭记：完美是永无止境的追求，而创造一个更美好的世界，正是我们每个人的责任与机遇。
+所以，我决心建立一家基业长青的公司。在这里，唯一的目标，就是我们是否创造出了让自己激动、并能为用户带去巨大价值的艺术品。我们招聘什么样的人、我们提拔谁、我们在会议上争论什么，一切都将由这个标准来决定。
 
 </details>
 
 <details>
 <summary>About Me 🇬🇧</summary>
 
-<samp>
-<b>I've always aspired to be more than just a code-writing programmer. To me, programming is an art of creation, a medium for expressing ideas, and a tool for changing the world. My pursuit is to perfectly integrate technology, design, and humanities to create products that are not only powerful but also aesthetically pleasing and user-friendly.</b>
-</samp>
+My journey into open source began with a very simple story. In my freshman year of college, I had already completed all the core curriculum courses. This was thanks to having taught myself programming since middle school, which had long accustomed me to learning and creating with high efficiency. At the time, I organized and shared all of my notes and insights, and to my surprise, they were met with a huge response from my classmates.
 
-<samp>
-<b>My quest for beautiful interfaces and ultimate user experiences stems from an innate desire for beauty and perfection. Whenever I design an interface, I ponder: How can each element be just right? How can I make users feel joy and satisfaction when using it? This pursuit reflects my understanding and interpretation of the world.</b>
-</samp>
-<br>
-<samp>
-<b>However, my vision is not limited to the technological realm. I firmly believe in the power of interdisciplinary thinking. Economics, psychology, philosophy, even art and literature - these disciplines seemingly unrelated to programming all hold important positions in my thinking model. This cross-disciplinary thinking allows me to avoid the "if all you have is a hammer, everything looks like a nail" trap, enabling me to solve problems with a more comprehensive and in-depth perspective.</b>
-</samp>
-<br>
-<samp>
-<b>Photography and humanities are important ways for me to express creativity and understand the world. Through the lens, I capture fleeting moments of beauty in life; through reading and reflection, I gain a deeper understanding of human nature and society. These experiences enrich my perspective, allowing me to incorporate more humanistic care and aesthetic considerations when creating digital products.</b>
-</samp>
-<br>
-<samp>
-<b>I've always believed that truly great technology should be invisible, naturally integrating into people's lives to improve quality of life, rather than becoming a burden. That's why I'm constantly thinking about how to change the world. For me, changing the world isn't an empty slogan, but concrete action. Every carefully designed interface, every smooth user experience, every function that solves real problems - these are all my attempts to change the world.</b>
-</samp>
-<br>
-<samp>
-<b>My obsession with details and pursuit of perfection might sometimes be seen as stubborn. But I firmly believe that it's this near-obsessive focus that creates truly outstanding products. As I often say: "Perfection is a process, not an endpoint. When you feel satisfied, that's when you stop progressing." Innovation is crucial. But for me, innovation isn't just about learning new programming languages or frameworks. True innovation is about breaking boundaries, combining technology with design and humanistic thinking to create products that can truly improve people's lives.</b>
-</samp>
-<br>
-<samp>
-<b>Where does my motivation come from? It comes from seeing users' lives improve because of the products I design, from the sense of achievement when solving real problems through technology, and from the firm belief in creating a better world.</b>
-</samp>
-<br>
-<samp>
-<b>Some might say my ideas are too idealistic, that changing the world sounds somewhat arrogant and naive. But I've always believed that it's this seemingly impractical idealism that is the real driving force behind technological and social progress. "Idealists see opportunities in despair and create light in darkness. We don't just live in the world, we create it." If we don't work with the ambition to change the world, how can we create truly great works?</b>
-</samp>
-<br>
-<samp>
-<b>This is who I am, Kirk Lin, an engineer who always strives to inject artistic soul and humanistic care into code. I believe that through relentless effort, continuous innovation, and interdisciplinary thinking, we will eventually create products that are not only powerful but also beautiful, user-friendly, and truly capable of changing the world. This is not just my work, but my mission and passion. In this process, I will always remember: the pursuit of perfection is endless, and creating a better world is both our responsibility and opportunity.</b>
-</samp>
+In that moment, a long-lost feeling of joy struck me—it was the purest sense of achievement, the same one I felt in middle school when I built my first website with code and experienced for the first time how technology could create value for others. I suddenly grasped something incredibly important, a concept I call “Value Leverage”: The limited time I invested was magnified, creating far more value for others than the sum of my individual effort. This, to me, is the most artistic form of creation.
+
+This belief has also completely shaped my view on creation itself. While the mainstream today champions specialization, I believe more in a Da Vinci-esque, holistic development. A creator must have a profound understanding and command of the entire process, from code to design, from user psychology to business logic. Therefore, I never confine myself to the role of a "programmer." When a work requires me to take on more roles, I dive in without hesitation, because the ultimate goal is the integrity of the work, not my personal job title.
+
+This reminds me of something Steve Jobs once said: great artists and great engineers are similar because they both yearn for self-expression. Among the brilliant engineers on the first Macintosh team, some wrote poetry or composed music in their spare time. In the 1970s, computers became a medium for people's creativity. Great artists like Leonardo da Vinci and Michelangelo were also brilliant in science. Michelangelo didn't just sculpt; he also knew a great deal about quarrying.
+
+After graduating, I joined a traditional software company. The reality, however, was that I became a cog in an assembly line, my days spent ensuring projects could "pass acceptance tests." I couldn't feel what value my work was bringing to the end-users, let alone the joy that came from that "Value Leverage." I had lost the sense of achievement in creation.
+
+I soon discovered this was not an isolated case. In many companies, people treat making money as the goal. But I believe, in my bones, that they have it all wrong. Making money is not the process, nor is it even the goal. It is simply the natural result of doing things right. The real "process" is the flow and joy experienced when you are fully immersed in creating a great work. The real "goal" is to see that work truly empower people, bringing an efficient and artistic "Value Leverage" to the world. When that happens, money is a natural byproduct.
+
+Therefore, I am determined to build a company that is built to last. Here, the sole objective—the standard by which we will decide who we hire, who we promote, and what we argue about in meetings—will be this: are we creating works of art that excite us and bring immense value to our users?
 
 </details>
 
