@@ -1,5 +1,9 @@
 # 我的技术栈
 
+## 软件架构
+
+- **整洁架构 (Clean Architecture)**: 一种旨在分离关注点、使业务逻辑独立于框架、UI和数据库的软件设计哲学，以提高系统的可测试性、可维护性和适应性。
+
 ## 前端技术栈
 
 前端开发主要涉及用户界面的构建和用户体验的优化，负责将设计图转化为实际的网页或应用界面，并确保其在各种设备上的兼容性。
@@ -24,7 +28,7 @@
 
 - **React 生态系统**
 
-  - [React 18](https://reactjs.org/): 用于构建用户界面的 JavaScript 库，特点包括：虚拟 DOM 和高效的渲染机制，组件化开发，单向数据流，Hooks API
+  - [React 19](https://reactjs.org/): 用于构建用户界面的 JavaScript 库，特点包括：虚拟 DOM 和高效的渲染机制，组件化开发，单向数据流，Hooks API
   - [React Router](https://reactrouter.com/): React 的声明式路由库，支持动态路由匹配。
   - [Redux](https://redux.js.org/): 可预测的状态容器，适用于管理复杂应用的全局状态。
   - [Next.js](https://nextjs.org/): 基于 React 的服务端渲染框架，提供了路由、优化和开发体验增强。
@@ -63,7 +67,6 @@
 
 - **设计和原型工具**
   - [Figma](https://www.figma.com/): 协作设计工具
-  - [Adobe XD](https://www.adobe.com/products/xd.html): UI/UX设计和原型工具
 
 ## 后端技术栈
 
@@ -86,6 +89,10 @@
   - **消息队列**
     - [RabbitMQ](https://www.rabbitmq.com/): 开源消息代理
     - [Apache Kafka](https://kafka.apache.org/): 分布式流平台
+
+- **Go 生态系统**
+  - [Go](https://go.dev/): 一种静态强类型、编译型语言，以其简单性、高并发性能和高效的内存管理而闻名。
+  - [Gin](https://gin-gonic.com/): Go 语言中一个高性能的 Web 框架，以其类似 Martini 的 API 和出色的性能而受到青睐。
 
 - **Python 生态系统**
   - [Python](https://www.python.org/): 高级、解释型、通用型编程语言，以简洁和可读性著称。
@@ -128,9 +135,6 @@
   - [MongoDB](https://www.mongodb.com/): 文档型数据库，支持灵活的数据模型和强大的查询语言。
   - [Redis](https://redis.io/): 高性能的键值存储数据库，常用作缓存、消息代理和队列。
 
-- **GraphQL**
-  - [Apollo Server](https://www.apollographql.com/docs/apollo-server/): 构建 GraphQL API 的服务器端库，支持各种数据源。
-
 ## DevOps 和 CI/CD
 
 - **版本控制**
@@ -149,10 +153,10 @@
 
 ## AI 和机器学习
 
-- **深度学习框架**
+- **基础框架**
 
-  - [TensorFlow](https://www.tensorflow.org/): 开源机器学习平台，支持深度学习和神经网络。
-  - [PyTorch](https://pytorch.org/): 开源机器学习库，以动态计算图和直观的 API 著称。
+  - 深度学习框架: [PyTorch](https://pytorch.org/)
+  - 数据处理与分析: [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/)
 
 - **自然语言处理**
 
@@ -162,6 +166,8 @@
 - **AI 应用开发**
 
   - [LangChain](https://www.langchain.com/): 开发语言模型驱动的应用程序的框架，简化 LLM 应用开发。
+  - [LangGraph](https://langchain-ai.github.io/langgraph/): 对 LangChain 的扩展，用于构建具有循环、状态和可控性的、更强大的 Agentic 应用。
+  - [Agentic Systems](https://huggingface.co/learn/agents-course/en/unit0/introduction): 基于大型语言模型构建能够自主规划、执行和反思的智能体系统。
   - [RAG (Retrieval-Augmented Generation)](https://www.pinecone.io/learn/retrieval-augmented-generation/): 结合检索和生成的 AI 技术，提高 AI 回答的准确性和相关性。
 
 - **向量数据库**
@@ -190,8 +196,7 @@
   - [Maven](https://maven.apache.org/)(Java): Java 项目管理工具。
   - [Gradle](https://gradle.org/)(Java): 灵活的项目构建工具。
   - [pip](https://pypi.org/project/pip/) (Python): Python 的包管理工具。
-  - [Poetry](https://python-poetry.org/) (Python): Python 的包管理工具。
-  - [Rye](https://rye.astral.sh/) (Python): Python 的包管理工具，基于Rust。
+  - [uv](https://github.com/astral-sh/uv) (Python): 基于 Rust 的极速 Python 包安装器和解析器。
   - [Cargo](https://doc.rust-lang.org/cargo/) (Rust): Rust 项目的包管理工具。
   - [Homebrew](https://brew.sh/): macOS（或 Linux）包管理器。
 
