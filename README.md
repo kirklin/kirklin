@@ -96,4 +96,4 @@ If you like what I do, consider buying me a book 🥺
 
 如果您喜欢我的工作，也许可以考虑给我买一本书 🥺
 
-[![爱发电](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.net/a/kirklin)
+[![爱发电](https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://afdian.com/a/kirklin)
